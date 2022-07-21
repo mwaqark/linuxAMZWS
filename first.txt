@@ -1,2 +1,3 @@
 This is my First Text file.
 This Second line of text to test.
+This line of text has been added from singapore.
